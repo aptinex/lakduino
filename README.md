@@ -1,4 +1,3 @@
-# Lakduino 
 ## Dwee - 1284 Mini Pro 
 
 <img src="https://user-images.githubusercontent.com/6365607/45154613-c2e9b480-b1f5-11e8-872f-5280fbeb1542.jpg" width="400"/>
