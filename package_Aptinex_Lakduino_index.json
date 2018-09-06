@@ -6,7 +6,7 @@
       "websiteURL": "https://aptinex.com",
       "email": "",
       "help": {
-        "online": "https://aptinex.com/contact/?v=125"
+        "online": "https://aptinex.com/contact/?v=126"
       },
       "platforms": [
         {
@@ -17,6 +17,20 @@
           "url": "https://aptinex.github.io/lakduino/Lakduino-2.0.0.tar.bz2",
           "archiveFileName": "Lakduino-2.0.0.tar.bz2",
           "checksum": "SHA-256:57808c1e76a2e2b702febac6e24089b571226bf9a670fce7fd83ac5256844179",
+          "size": "210073",
+          "boards": [
+            {"name": "Lakduino Dwee -1284 Mini Pro"}
+          ],
+          "toolsDependencies": []
+        },
+         {
+          "name": "Lakduino",
+          "architecture": "avr",
+          "version": "2.0.1",
+          "category": "Contributed",
+          "url": "https://aptinex.github.io/lakduino/Lakduino-2.0.1.tar.bz2",
+          "archiveFileName": "Lakduino-2.0.1.tar.bz2",
+          "checksum": "SHA-256:d7fbeb97eae57694add8c147a8dbbbadf3b74d61c6bf4bff7e4774caade7f0a2",
           "size": "210073",
           "boards": [
             {"name": "Lakduino Dwee -1284 Mini Pro"}
