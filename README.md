@@ -14,10 +14,10 @@ The new “Lakduino Dwee 1284 Pro Mini” is Arduino compatible hardware with th
 
 Extra space for extra code: With 4x the flash memory (program space), 4x the EEPROM, and 8x the RAM versus the 328p, your programs will never be limited by space constraints. You will be free to code without worrying about a data cap looming over you.
 
-Create more developed projects with the extra pins: Supplying 32 I/O pins, you will never have to make the tough choice of which peripheral to keep in your project, and which to toss out. The “Lakduino Dwee 1284 MiniPro” is designed to fit them all! It can also source up to 40 mA of current per pin compared to 25 mA capabilities of ARM based boards.
+Create more developed projects with the extra pins: Supplying 32 I/O pins, you will never have to make the tough choice of which peripheral to keep in your project, and which to toss out. The “Lakduino Dwee 1284 Pro Mini” is designed to fit them all! It can also source up to 40 mA of current per pin compared to 25 mA capabilities of ARM based boards.
 
 In a compact package:
-The “Lakduino Dwee 1284 MiniPro” is the breadboard Pluggable 40 pin design.
+The “Lakduino Dwee 1284 Pro Mini” is the breadboard Pluggable 40 pin design.
 
 Get more data in and out (digital and analog):
 
@@ -27,10 +27,10 @@ Get more data in and out (digital and analog):
 - 8 Analog Input pins,
 - 8 PWM (Pulse Width Modulation) enabled pins,
 - 3 External Interrupt pins.
-- The “Lakduino Dwee 1284 MiniPro” also has SPI and I2C capabilities.
+- The “Lakduino Dwee 1284 Pro Mini” also has SPI and I2C capabilities.
 
-How to use the “Lakduino Dwee 1284 MiniPro”:
-All you need to upload a sketch via Micro USB cable to the “Lakduino Dwee 1284 MiniPro”. USB-to-Serial adapter based on the CH340G is include to easy to use and plug and play.
+How to use the “Lakduino Dwee 1284 Pro Mini”:
+All you need to upload a sketch via Micro USB cable to the “Lakduino Dwee 1284 Pro Mini”. USB-to-Serial adapter based on the CH340G is include to easy to use and plug and play.
 
 ### Full Specification
 
