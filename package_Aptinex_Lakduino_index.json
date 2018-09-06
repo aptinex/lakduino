@@ -31,7 +31,7 @@
           "url": "https://aptinex.github.io/lakduino/Lakduino-2.0.1.tar.bz2",
           "archiveFileName": "Lakduino-2.0.1.tar.bz2",
           "checksum": "SHA-256:d7fbeb97eae57694add8c147a8dbbbadf3b74d61c6bf4bff7e4774caade7f0a2",
-          "size": "210073",
+          "size": "207316",
           "boards": [
             {"name": "Lakduino Dwee -1284 Mini Pro"}
           ],
