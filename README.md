@@ -1,11 +1,11 @@
 Lakduino is a series of devices manufactured by [Aptinex (Pvt) Ltd](https://aptinex.com). This aims at making improved compatibles of Arduino.
 
 # Table of contents
-* [Supported Boards](#supported-boards)
+* [Boards](#boards)
   - [Dwee - 1284 Mini Pro](#dwee---1284-mini-pro)
 * [How to install](#how-to-install)
 
-# Supported Boards
+# Boards
 ## Dwee - 1284 Mini Pro 
 
 <img src="https://user-images.githubusercontent.com/6365607/45154613-c2e9b480-b1f5-11e8-872f-5280fbeb1542.jpg" width="400"/>
