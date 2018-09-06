@@ -19,7 +19,7 @@
           "checksum": "SHA-256:57808c1e76a2e2b702febac6e24089b571226bf9a670fce7fd83ac5256844179",
           "size": "210073",
           "boards": [
-            {"name": "ATmega1284/P"}
+            {"name": "Lakduino Dwee -1284 Mini Pro"}
           ],
           "toolsDependencies": []
         }
