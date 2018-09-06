@@ -1,3 +1,11 @@
+Lakduino is a series of devices manufactured by [Aptinex (Pvt) Ltd](https://aptinex.com). This aims at making improved compatibles of Arduino.
+
+# Table of contents
+* [Supported Boards](#supported-boards)
+  - [Dwee - 1284 Mini Pro](#dwee---1284-mini-pro)
+* [How to install](#how-to-install)
+
+# Supported Boards
 ## Dwee - 1284 Mini Pro 
 
 <img src="https://user-images.githubusercontent.com/6365607/45154613-c2e9b480-b1f5-11e8-872f-5280fbeb1542.jpg" width="400"/>
@@ -43,7 +51,7 @@ All you need to upload a sketch via Micro USB cable to the “Lakduino Dwee 1284
 
 
 
-## How to install
+# How to install
 This installation method requires Arduino IDE version 1.6.4 or greater.
 * Open the Arduino IDE.
 * Open the **File > Preferences** menu item.
