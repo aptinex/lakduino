@@ -47,7 +47,7 @@ All you need to upload a sketch via Micro USB cable to the “Lakduino Dwee 1284
 - Onboard LED
 
 ## Pinout
-<img src="https://user-images.githubusercontent.com/6365607/45154427-350dc980-b1f5-11e8-8921-11acd38bdc23.jpg" width="500"/>
+<img src="https://user-images.githubusercontent.com/6365607/45154427-350dc980-b1f5-11e8-8921-11acd38bdc23.jpg" />
 
 
 
